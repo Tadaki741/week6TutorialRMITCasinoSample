@@ -51,6 +51,7 @@
 		D3164C94289CEE7C00194F58 /* week6TutorialRMITCasinoSample */ = {
 			isa = PBXGroup;
 			children = (
+				D3164CA3289CEEF600194F58 /* Model */,
 				D3164C95289CEE7C00194F58 /* week6TutorialRMITCasinoSampleApp.swift */,
 				D3164C97289CEE7C00194F58 /* ContentView.swift */,
 				D3164C99289CEE7D00194F58 /* Assets.xcassets */,
@@ -65,6 +66,13 @@
 				D3164C9C289CEE7D00194F58 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		D3164CA3289CEEF600194F58 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
